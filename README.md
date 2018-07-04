@@ -20,10 +20,10 @@ Let us explain in more detail what the above image represents:
 - The green square is the place you’re going to in order to win. 
 
 - Possible actions: 
-       - up, down, left, right
-       - (1,1) wall, can't go there
-       - (0,3) terminal state (+ 1 reward) AKA "you win"
-       - (1,3) terminal state (- 1 reward) AKA "you lose"
+  - up, down, left, right
+  - (1,1) wall, can't go there
+  - (0,3) terminal state (+ 1 reward) AKA "you win"
+  - (1,3) terminal state (- 1 reward) AKA "you lose"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
