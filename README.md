@@ -45,25 +45,23 @@ BACK ON TOPIC:
 
 Having define GridWorld and having defined what a State is, the question then becomes what is **Iterative Policy Evaluation** and **Policy Iteration**. 
 
+**Policy** = the set of actions you can take at any given state (official definition)
+
+This is talking about an AGENT making decisions on where to go in GridWorld
+
+**Policy Iteration** starts with a policy and iteratively  improves it. (carries out a set of instructions repeated in a sequence a specified number of times or until a condition is met. [1] In other words: Policy iteration runs an loop between policy evaluation and policy improvement.[2]
+
+[1] = https://www.techopedia.com/definition/3821/iteration
+
+[2] = https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
 
 
+What then is **Policy Evaluation**? It tells you the values of all the states that the Agent can find when moving through the Environment. Input policy, output values. It tells you the best you can do given your current state. For more information google "Value Functions."
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+# Conclusion #
 
+In short, the Agent attempts to find a policy that maximizes the potential rewards it can get from the Environment. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+** insert picture **
