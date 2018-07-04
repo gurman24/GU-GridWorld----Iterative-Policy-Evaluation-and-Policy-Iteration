@@ -64,4 +64,5 @@ What then is **Policy Evaluation**? It tells you the values of all the states th
 
 In short, the Agent attempts to find a policy that maximizes the potential rewards it can get from the Environment. 
 
-** insert picture **
+![policy evaluation and policy iteration chart smaller](https://user-images.githubusercontent.com/22970879/42268306-6577659e-7f38-11e8-9412-2471e7770874.png)
+
