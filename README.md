@@ -13,7 +13,6 @@ What is GridWorld? It is a well-known concept/program in Reinforcement Learning 
 
 Let us explain in more detail what the above image represents:
 
-
 - Where are the terminal states?
 - Where is the "robot"? Row 1 column 3.
 - In each state there is a finite choice of actions.
@@ -21,10 +20,10 @@ Let us explain in more detail what the above image represents:
 - The green square is the place you’re going to in order to win. 
 
 - Possible actions: 
-      - up, down, left, right
-      - (1,1) wall, can't go there
-      - (0,3) terminal state (+ 1 reward) AKA "you win"
-      - (1,3) terminal state (- 1 reward) AKA "you lose"
+       - up, down, left, right
+       - (1,1) wall, can't go there
+       - (0,3) terminal state (+ 1 reward) AKA "you win"
+       - (1,3) terminal state (- 1 reward) AKA "you lose"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
