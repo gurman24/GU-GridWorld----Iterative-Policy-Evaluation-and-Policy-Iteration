@@ -3,6 +3,8 @@ by Gregory Urman
 www.linkedin.com/in/gregoryurman   
 <br/>
 
+_ _check the bottom of this blog for some YouTube links_ _
+
 # GU-GridWorld ---> Iterative Policy Evaluation and Policy Iteration #
 
 Hello! In this blog we will explore Iterative Policy Evaluation and Policy Iteration, using Gridworld as the example program. 
@@ -66,3 +68,9 @@ In short, the Agent attempts to find a policy that maximizes the potential rewar
 
 ![policy evaluation and policy iteration chart smaller](https://user-images.githubusercontent.com/22970879/42268306-6577659e-7f38-11e8-9412-2471e7770874.png)
 
+
+https://youtu.be/YfSBYf9h7qk
+
+https://youtu.be/bHeeaXgqVig
+
+https://youtu.be/raBlEpn8Oz4
